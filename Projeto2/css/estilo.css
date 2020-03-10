@@ -1,0 +1,26 @@
+body{
+	background-color: black;
+}
+.container{
+	background-color: blue;
+	min-height: 400px;
+	color: gold;
+	width: 90%;
+	height: auto;
+} 
+h3{
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+#bold{
+	font-weight: bold;
+}
+#color{
+	color: black;
+	background-color: white; 
+}
+img{
+	width: 100%;
+
+}
+
